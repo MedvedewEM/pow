@@ -1,0 +1,9 @@
+Build and run http-server in container `pow_http_server`:
+```
+cd http-server && make build && make run
+```
+
+Build and run example client in container `pow_example`:
+```
+cd example && make build && make run
+```
